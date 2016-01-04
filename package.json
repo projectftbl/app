@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/app",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "App container",
   "main": "node index",
   "scripts": {
@@ -42,4 +42,3 @@
     "sinon-chai": "^2.8.0"
   }
 }
-
