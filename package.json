@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/app",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "App container",
   "main": "node index",
   "scripts": {
