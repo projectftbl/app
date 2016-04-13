@@ -21,7 +21,7 @@
     "@ftbl/initializer": "^2.0.0",
     "@ftbl/log": "^1.0.0",
     "@ftbl/utility": "^1.0.0",
-    "bluebird": "^2.9.34",
+    "bluebird": "^3.0.0",
     "lodash": "^3.10.1"
   },
   "peerDependencies": {
