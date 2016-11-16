@@ -1,5 +1,5 @@
 {
-  "name": "@ftbl/app",
+  "name": "@recipher/app",
   "version": "1.1.4",
   "description": "App container",
   "main": "node index",
@@ -14,26 +14,25 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/app.git"
+    "url": "git@github.com:recipher/app.git"
   },
   "dependencies": {
-    "@ftbl/configuration": "^1.0.0",
-    "@ftbl/initializer": "^2.0.0",
-    "@ftbl/log": "^1.0.0",
-    "@ftbl/utility": "^1.0.0",
+    "@recipher/configuration": "^1.0.0",
+    "@recipher/initializer": "^2.0.0",
+    "@recipher/log": "^1.0.0",
+    "@recipher/utility": "^1.0.0",
     "bluebird": "^3.0.0",
     "lodash": "^3.10.1"
   },
   "peerDependencies": {
-    "@ftbl/bus": "^1.0.0",
-    "@ftbl/scheduler": "^1.0.0",
-    "@ftbl/server": "^1.0.0",
-    "@ftbl/socket": "^1.0.0",
-    "@ftbl/store": "^1.0.0",
-    "@ftbl/task": "^1.0.0"
+    "@recipher/bus": "^1.0.0",
+    "@recipher/server": "^1.0.0",
+    "@recipher/socket": "^1.0.0",
+    "@recipher/store": "^1.0.0",
+    "@recipher/task": "^1.0.0"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.5.0",
+    "@recipher/gulp": "^1.5.0",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",

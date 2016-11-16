@@ -1,2 +1,2 @@
-## @ftbl/app
+## @recipher/app
 
