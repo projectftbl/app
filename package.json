@@ -1,6 +1,6 @@
 {
   "name": "@recipher/app",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "App container",
   "main": "node index",
   "scripts": {
